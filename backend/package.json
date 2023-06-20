@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "course bundler website related to sell the courses like udemy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupam0106/Course-Bundler.git"
+  },
+  "keywords": [
+    "Node",
+    "React",
+    "MongoDB",
+    "Express",
+    "Redux"
+  ],
+  "author": "Rupam Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rupam0106/Course-Bundler/issues"
+  },
+  "homepage": "https://github.com/Rupam0106/Course-Bundler#readme"
+}
